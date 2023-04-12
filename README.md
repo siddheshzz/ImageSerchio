@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+#React App ImageSerchio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project we can search a keyword and respective related images would be fetched.The images are adjusted for the size and looks on page.
+![ImageSerchio](https://user-images.githubusercontent.com/92165567/231442811-96ff97ea-4ac7-431f-824d-a5ee1264c548.PNG)
 
 ## Available Scripts
 
